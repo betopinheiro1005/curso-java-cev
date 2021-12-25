@@ -1,8 +1,7 @@
 # Curso Java
 ## Curso em Vídeo (Gustavo Guanabara)
 
-### Link dos vídeos
-<https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR>
+### [Vídeos do curso](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
 
 ### Lista de aulas
 
